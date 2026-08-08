@@ -83,7 +83,7 @@ The project involves data exploration, preprocessing, model training, model comp
 
 ## 📁 Project Folder
 
-`CodeAlpha_Task1_CreditScoringModel`
+📂 [Open CodeAlpha Task 1 – Credit Scoring Model](./CodeAlpha_Task1_CreditScoringModel/)
 
 ## 🚀 Live Application
 
@@ -117,7 +117,7 @@ The project combines audio signal processing, feature extraction, machine learni
 
 ## 📁 Project Folder
 
-`CodeAlpha_Task2_SpeechEmotionRecognition`
+📂 [Open CodeAlpha Task 1 – Credit Scoring Model](./CodeAlpha_Task2_SpeechEmotionRecognition/)
 
 ## 🚀 Live Application
 
@@ -150,7 +150,7 @@ The project includes data exploration, preprocessing, model training, model eval
 
 ## 📁 Project Folder
 
-`CodeAlpha_Task3_DiseasePrediction`
+📂 [Open CodeAlpha Task 1 – Credit Scoring Model](./CodeAlpha_Task3_DiseasePrediction/)
 
 ## 🚀 Live Application
 
@@ -246,7 +246,7 @@ This repository contains the selected projects completed as part of the internsh
 **Md.Sadiya Tabassum**
 
 B.Tech — Data Science & Artificial Intelligence
+
 ICFAI Foundation for Higher Education , IFHE, Hyderabad
 
-```
 ```
