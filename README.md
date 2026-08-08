@@ -1,10 +1,16 @@
 # CodeAlpha Machine Learning Internship Tasks
 
 Student Name: **Mohammed Sadiya Tabassum*
+
 Student ID: **CA/DF1/210263**
+
 Internship Domain: **Machine Learning**
+
 Batch: **1st Aug 2026 - 31st Aug 2026**
+
 Company: **CodeAlpha**
+
+---
 
 This repository contains the projects completed as part of my **CodeAlpha Machine Learning Internship**.
 
