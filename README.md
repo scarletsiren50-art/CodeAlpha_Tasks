@@ -1,6 +1,6 @@
 # CodeAlpha Machine Learning Internship Tasks
 
-Student Name: **Mohammed Sadiya Tabassum*
+Student Name: **Mohammed Sadiya Tabassum**
 
 Student ID: **CA/DF1/210263**
 
